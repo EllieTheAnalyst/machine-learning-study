@@ -1,6 +1,6 @@
 # Machine Learning Study
 
-Author: Ellie  
+Author: Elena Fuchs 
 Program: MSc Data Science  
 
 This repository contains structured study material for Machine Learning 1.
